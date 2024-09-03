@@ -1,4 +1,4 @@
 # demo
 Tailwind CSS Demo
-<br>
-Author - Sinroja Deep 
+<br><b>
+Author - Sinroja Deep </b>
